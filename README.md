@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm Daniel
+```
+I am an analytical, extroverted person always eager to learn. My goal is to contribute to team success and further expand my skills as a programmer. I have a strong interest in software development and am accustomed to following agile methodologies, utilizing GIT, and managing APIs.
+```
 
 ## Stack
 
