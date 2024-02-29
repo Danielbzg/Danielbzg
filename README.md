@@ -15,7 +15,7 @@ utilizing GIT, and managing APIs.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=9b9b9b&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)
 ![SwiftUI](https://img.shields.io/badge/-Swift-51D1F6?style=flat-square&logo=Swift&logoColor=%23ffffff)
-//![Java](https://img.shields.io/badge/-Java-51D1F6?style=flat-square&logo=Java&logoColor=%23ffffff)
+/*![Java](https://img.shields.io/badge/-Java-51D1F6?style=flat-square&logo=Java&logoColor=%23ffffff)*/
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat-square&logo=NestJS&logoColor=E0234E)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-563D7C?style=flat-square&logo=Mongodb)
